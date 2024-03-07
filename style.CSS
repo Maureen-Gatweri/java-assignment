@@ -1,0 +1,99 @@
+
+
+
+
+h1{
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: xx-large;
+}
+h4{
+    color: red;
+}
+h2{
+    color: blue;
+}
+p{
+    color: grey;
+}
+.week{
+    color: blue;
+    justify-content: center;
+    padding: auto;
+    justify-items: center;
+    align-items: center;
+}
+.cite{
+    display: flex;
+}
+button{
+    background-color: rgb(51, 51, 236);
+    border-radius: 25px;
+    color: white;
+}
+.management{
+    display: flex;
+    justify-content: space-around;
+}
+.profile{
+    display: flex;
+    justify-content: space-around;
+    margin-right: 30px;
+    gap: 5%;
+    
+}
+.last{
+    text-align: center;
+}
+
+.comments{
+    display: flex;
+    justify-content: space-around;
+    border-radius: 30px;
+}
+.socials{
+    display: flex;
+    justify-content: space-between;
+}
+.remarks{
+    display: flex;
+    justify-content: space-around;
+}
+.insights{
+    display: flex;
+    justify-content: space-around;
+    
+}
+.table{
+    margin-left: 11%;
+}
+.yellow{
+    height: 100%;
+}
+.info{
+    display: flex;
+    justify-content: space-around;
+}
+.kaya{
+    margin-right: 10px;
+}
+nav{
+    color: black;
+    justify-content: space-evenly;
+}
+.blue{
+    border-radius: 50%;
+}
+.lovelace{
+    text-align: center;
+}
+.bit{
+    text-align: center;
+}
+
+@media all and (max-width:5550px){
+body
+{}
+}
+
+
